@@ -295,10 +295,10 @@
   },
   {
     "id": "bfdcf5c9-afe1-414b-ac3e-30b56c2cafd6",
-    "title": "Regan Video",
+    "title": "Regan's Video",
     "channel": "Regan Brown",
     "image": "http://localhost:8080/images/image3.jpg",
-    "description": "Hello",
+    "description": "Hello, this is my test video upload!",
     "views": "0",
     "likes": "0",
     "duration": "49:20",
